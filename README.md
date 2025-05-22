@@ -24,5 +24,5 @@ Just specify them as compile time options after `make`! Supported parameters are
 
   ### Example
     ```
-    make APP_NAME="Wii Menu" ICON="icon.png" APP_NAME="WiiMart" TV_SPLASH="assets/bootTvTex.png" DRC_SPLASH="assets/bootDrcTex.png"
+    make APP_NAME="WiiMart" ICON="icon.png" TV_SPLASH="assets/bootTvTex.png" DRC_SPLASH="assets/bootDrcTex.png"
     ```
